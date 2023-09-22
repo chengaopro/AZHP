@@ -1,4 +1,4 @@
-# AZHP
+# Adaptive Zone-aware Hierarchical Planner
 
 Code for our CVPR 2023 paper "[Adaptive Zone-aware Hierarchical Planner for Vision-Language Navigation](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Adaptive_Zone-Aware_Hierarchical_Planner_for_Vision-Language_Navigation_CVPR_2023_paper.pdf)"
 
