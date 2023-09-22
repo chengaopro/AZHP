@@ -7,7 +7,7 @@ In this paper, we propose an Adaptive Zone-aware Hierarchical Planner (AZHP) to 
 
 ![framework](framework.png)
 
-## Getting Started
+## Get Started
 1. Install Matterport3D simulators: follow instructions [here](https://github.com/peteanderson80/Matterport3DSimulator). We use the latest version instead of v0.1.
 ```
 export PYTHONPATH=Matterport3DSimulator/build:$PYTHONPATH
