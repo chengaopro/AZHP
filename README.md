@@ -23,7 +23,7 @@ pip install -r requirements.txt
 1. Download data from [Baidu Drive (passcode:98q3)](https://pan.baidu.com/s/1cw_GjDHGnHv-jb8GRYsfWw), including pretrained lxmert, processed annotations, features and pretrained models of REVERIE, SOON, and R2R datasets. Put the data in `datasets' directory.
 
 
-## Pretraining
+## Pretrain
 
 ```pretrain
 cd pretrain_src
@@ -32,7 +32,7 @@ bash run_r2r.sh
 bash run_soon.sh
 ```
 
-## Fine-tuning
+## Finetune
 
 ```finetune
 cd map_nav_src
@@ -40,7 +40,7 @@ bash scripts/run_reverie.sh
 bash scripts/run_r2r.sh
 bash scripts/run_soon.sh
 ```
-## Testing
+## Test
 Directly download the well-trained model or submitted result files from [Baidu Drive (passcode:98q3)](https://pan.baidu.com/s/1cw_GjDHGnHv-jb8GRYsfWw) or use your own trained models.
 ```test
 cd map_nav_src
