@@ -20,7 +20,7 @@ conda activate AZHP
 pip install -r requirements.txt
 ```
 
-3. Download data from [Baidu Drive](https://pan.baidu.com/s/1FFgDIBJMHwVzi6balzu0pQ?pwd=nf2f), including pretrained lxmert, processed annotations, features and pretrained models of REVERIE, SOON, and R2R datasets. Put the data in `datasets' directory.
+3. Download data from [Baidu Drive](https://pan.baidu.com/s/1dfbYjoSkKrRmU_7rgoCY2Q?pwd=e1qm), including pretrained lxmert, processed annotations, features and pretrained models of REVERIE, SOON, and R2R datasets. Put the data in `datasets' directory.
 
 
 ## Pretrain
